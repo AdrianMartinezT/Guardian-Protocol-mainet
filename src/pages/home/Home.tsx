@@ -477,7 +477,7 @@ const metaFT =
                           colorScheme="teal"
                           size="lg"
                           style={{
-                            color: "black",
+                            color: "white",
                             background: "#F8AD18",
                             width: "240px",
                           }}
@@ -608,7 +608,7 @@ const metaFT =
                           colorScheme="teal"
                           size="lg"
                           style={{
-                            color: "black",
+                            color: "white",
                             background: "#F8AD18",
                             width: "240px",
                           }}
