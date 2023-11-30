@@ -104,7 +104,7 @@ const metaFT =
     const message: any = {
       destination: programID, // programId
       payload: inmessage,
-      gasLimit: 609981924500,
+      gasLimit: 709981924500,
       value: 0,
     };
 
