@@ -47,7 +47,7 @@ function BalanceStakingCard() {
   };
   balancestaking();
   
-  const trasnsferBalance = totalBalance - totalLocked;
+  //const trasnsferBalance = totalBalance - totalLocked;
 
 
   return (
@@ -65,12 +65,7 @@ function BalanceStakingCard() {
               <StatNumber>{totalLocked}</StatNumber>
             </Stat>
           
-            <Stat paddingLeft="5px">
-              
-              <StatLabel>Transfer Balance</StatLabel>
-              
-              <StatNumber>{Number(trasnsferBalance ?? 0)}</StatNumber>
-            </Stat>
+ 
 
           </StatGroup>
           </Flex>
