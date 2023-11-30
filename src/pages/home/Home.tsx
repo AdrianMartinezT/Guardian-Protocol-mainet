@@ -38,7 +38,7 @@ function Home() {
 
  // Add your programID
  const programIDFT =
- "0xbd3ef805336b5bd3552e3cea769de31754d58a07bcdfca92031ba668c485d83b";
+ "x77d1ddd1b10a0925464341fc21f94f6f7a5bc9bc9d0ac43803b8a21920f13270";
 
 // Add your metadata.txt
 const metaFT =
@@ -77,7 +77,7 @@ const metaFT =
 
   // Add your programID
   const programID =
-    "0x59021cb04f10eae1685a7828adecb6eb096b4bd2961c6a5604a40b146cb96f58";
+    "0x658fa7d81dbade9e3ad690f2a397b4da198df15b6ed571c0883259acf3f349e3";
 
   // Add your metadata.txt
   const meta =

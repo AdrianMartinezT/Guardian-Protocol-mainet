@@ -61,7 +61,7 @@ function BalanceStakingCard() {
             </Stat>
 
             <Stat paddingLeft="5px" >
-              <StatLabel  >Locked Balance</StatLabel>
+              <StatLabel  >Locked</StatLabel>
               <StatNumber>{totalLocked}</StatNumber>
             </Stat>
          
